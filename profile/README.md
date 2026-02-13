@@ -7,10 +7,10 @@ We build tools that fit your team, not the other way around.
 
 Blueprint Software specializes in:
 
-- Custom **web applications** (internal tools, dashboards, portals)
-- **Systems integrations** that eliminate manual re-entry across platforms
-- **Automation & AI assistants** tailored to your data and rules 
-- **APIs & cloud services** designed for maintainability and scale 
+- Custom web applications (internal tools, dashboards, portals)
+- Systems integrations that eliminate manual re-entry across platforms
+- Automation & AI assistants tailored to your data and rules 
+- APIs & cloud services designed for maintainability and scale 
 - Responsive, mobile-friendly interfaces across devices
 
 We help teams stuck in spreadsheets, siloed tools, or manual workflows build reliable systems that work for them.
@@ -19,9 +19,9 @@ We help teams stuck in spreadsheets, siloed tools, or manual workflows build rel
 
 **Approach**
 
-1. **Understand your workflow** — deep dive into tools, pain points, and requirements.
-2. **Iterate fast** — prototypes, demos, and feedback loops shorten the path to working software.
-3. **Launch & improve** — phased launches with support and refinement after real usage.
+1. Understand your workflow — deep dive into tools, pain points, and requirements.
+2. Iterate fast — prototypes, demos, and feedback loops shorten the path to working software.
+3. Launch & improve — phased launches with support and refinement after real usage.
 
 **Principles**
 
@@ -31,8 +31,7 @@ We help teams stuck in spreadsheets, siloed tools, or manual workflows build rel
 
 ## Open Source
 
-Blueprint Software believes in **open ecosystems**.  
-We publish tools, libraries, and utilities that:
+Blueprint Software believes in open source software because we believe we would be where we are today without them. We publish tools, libraries, and utilities that:
 
 - Reduce duplication and boilerplate
 - Support workflow-centric automation
@@ -41,6 +40,13 @@ We publish tools, libraries, and utilities that:
 Notable contributions so far:
 
 - [EEIP.NetStandard](https://github.com/benjaminsampica/eeipnetstandard)
+
+We also contribute back to frameworks and utilities that make our lives easier in order to thank the contributors, show our support, and uplift all developers, including:
+
+- [.NET](https://github.com/microsoft/dotnet)
+- [Skwasjer.MockHttp](https://github.com/skwasjer/MockHttp)
+- [TUnit](https://github.com/thomhurst/TUnit)
+- [Soenneker.AutoBogus](https://github.com/soenneker/soenneker.utils.autobogus)
 
 ## Showcase
 
