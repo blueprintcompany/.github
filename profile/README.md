@@ -31,7 +31,7 @@ We help teams stuck in spreadsheets, siloed tools, or manual workflows build rel
 
 ## Open Source
 
-Blueprint Software believes in open source software because we believe we would be where we are today without them. We publish tools, libraries, and utilities that:
+Blueprint Software believes in open source software because we would not be where we are today without it. We publish tools, libraries, and utilities that:
 
 - Reduce duplication and boilerplate
 - Support workflow-centric automation
