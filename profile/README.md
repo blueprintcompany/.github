@@ -49,7 +49,7 @@ We also contribute back to frameworks and utilities that make our lives easier i
 - [Soenneker.AutoBogus](https://github.com/soenneker/soenneker.utils.autobogus)
 - [WebAwesome](https://github.com/shoelace-style/webawesome)
 
-We are looking for interesting OSS projects to sponsor!
+We are looking for interesting and useful OSS projects to sponsor!
 
 ## Showcase
 
