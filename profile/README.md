@@ -47,6 +47,9 @@ We also contribute back to frameworks and utilities that make our lives easier i
 - [Skwasjer.MockHttp](https://github.com/skwasjer/MockHttp)
 - [TUnit](https://github.com/thomhurst/TUnit)
 - [Soenneker.AutoBogus](https://github.com/soenneker/soenneker.utils.autobogus)
+- [WebAwesome](https://github.com/shoelace-style/webawesome)
+
+We are looking for interesting OSS projects to sponsor!
 
 ## Showcase
 
