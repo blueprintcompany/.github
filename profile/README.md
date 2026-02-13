@@ -3,8 +3,6 @@
 Custom software engineered around real workflows.  
 We build tools that fit your team, not the other way around.
 
----
-
 ## What We Do
 
 Blueprint Software specializes in:
@@ -16,8 +14,6 @@ Blueprint Software specializes in:
 - Responsive, mobile-friendly interfaces across devices
 
 We help teams stuck in spreadsheets, siloed tools, or manual workflows build reliable systems that work for them.
-
----
 
 ## Engineering & Process
 
@@ -33,8 +29,6 @@ We help teams stuck in spreadsheets, siloed tools, or manual workflows build rel
 - Focused solutions, not over-engineered features  
 - Testable, maintainable, and documented systems
 
----
-
 ## Open Source
 
 Blueprint Software believes in **open ecosystems**.  
@@ -48,8 +42,6 @@ Notable contributions so far:
 
 - [EEIP.NetStandard](https://github.com/benjaminsampica/eeipnetstandard)
 
----
-
 ## Showcase
 
 Featured work includes production systems and workflow platforms with real business impact:
@@ -57,8 +49,6 @@ Featured work includes production systems and workflow platforms with real busin
 - [*FoundryPulse*](https://www.foundrypulse.com) — Real-time analytics and monitoring platform with IoT data, live dashboards, and alerting.
 - [*ARS*](https://www.abrasiveremovalservices.com) — Logistics and customer portal for managing pickups, scheduling, and sustainable material handling.
 - [*EquipmentMove*](https://www.equipmentmove.com) — Platform for managing low-boy equipment movement and logistics.
-
----
 
 ## Connect
 
