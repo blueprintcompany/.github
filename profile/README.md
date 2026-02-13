@@ -63,4 +63,4 @@ Featured work includes production systems and workflow platforms with real busin
 ## Connect
 
 Website: https://www.blueprint.software/  
-Email: team@blueprint.software  [oai_citation:15‡blueprint.software](https://www.blueprint.software/)  
+Email: team@blueprint.software
